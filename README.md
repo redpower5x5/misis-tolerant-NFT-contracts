@@ -1,1 +1,1 @@
-# NFT Conntracts for Misis tolerant team
+# NFT Contracts for Misis tolerant team
